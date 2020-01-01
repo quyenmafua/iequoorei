@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://meengohwo.3inthekey.ca/sitemap.xml
